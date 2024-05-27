@@ -1,6 +1,6 @@
 # Unix Timestamp Converter
 <p align="center">
-	<a href="https://i.imgur.com/zLCQh8n.png"><img src="https://i.imgur.com/zLCQh8n.png"></a>
+	<a href="https://i.imgur.com/zLCQh8n.png"><img width="600" src="https://i.imgur.com/zLCQh8n.png"></a>
 </p>
 <p align="center">
 	<a href=""><img src="https://img.shields.io/badge/script-bat- ?logo=windowsterminal&style=social" alt="" title="Scripts"></a>
